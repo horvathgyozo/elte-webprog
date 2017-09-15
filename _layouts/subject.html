@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<header class="navbar bg-dark navbar-fixed-top">
+    <a href="/"  class="text-white">
+        <strong>
+            <i class="fa fa-arrow-left"></i>
+            Webprogramozás tárgyak
+        </strong>
+    </a>
+</header>
+
+<div class="container mt-3">
+    <div class="row">
+        <aside class="col-md-3">
+            <div class="sticky-top toc">
+                {{ content | toc_only }}
+            </div>
+        </aside>
+        <section class="col-md-9">
+            {{ content | anchor_only }}
+        </section>
+    </div>
+</div>
