@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<header class="navbar bg-dark navbar-fixed-top">
-    <a href="/"  class="text-white">
+<header id="backlink" class="bg-dark">
+    <a href="/" class="text-white">
         <strong>
             <i class="fa fa-arrow-left"></i>
             Webprogramozás tárgyak
@@ -11,15 +11,15 @@ layout: default
     </a>
 </header>
 
-<div class="container mt-3">
+<div class="container">
     <div class="row">
-        <aside class="col-md-3">
-            <div class="sticky-top toc">
+        {% if page.toc %}
+            <aside class="thumbnail toc col-md-3">
                 {{ content | toc_only }}
-            </div>
-        </aside>
-        <section class="col-md-9">
+            </aside>
+        {% endif %}
+        <main class="col-md-9">
             {{ content | anchor_only }}
-        </section>
+        </main>
     </div>
 </div>

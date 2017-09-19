@@ -25,39 +25,40 @@ Környezet
 
 ## Az értékelés összetevői
 
-* Óra eleji röpzh-k
-* Beadandó feladat: JavaScript  
-    Határidő: 2017. április 18. éjfél  
-    Elkészült megoldás beadása
-* Beadandó feladat: PHP  
-    Határidő: 2017. május 28. éjfél  
-    Elkészült megoldás beadása
-* Évfolyam zh  
-    2017\. május 30. kedd, 13-16, Lovarda, Nyelvi és Adatbázis labor
-* Pót zh  
-    2017\. június 6. kedd, 9-12, Lovarda
-
-## A röpzh-k értékelése
-
-* A röpzh-k vagy sikerülnek vagy nem. Félév végére ha legalább 8 sikerült a tervezett 12-ből, akkor +0,5 jegy kapható rá.
-
-## A beadandók értékelése
-
-* A beadandók értékelése háromértékű skálán történik: -0,5; 0; 0,5 jegy kapható rá.
-* Az értékelés egy mindenki számára elérhető táblázat alapján történik.
-* A beadandókat határidőre kell elkészíteni.
-* Határidő leteltével a beadandó jegyéből a késés mértékének megfelelően vonunk le pontokat.
-* A beadandókat a webprogramozas szerverre kell feltölteni a feltöltő felületen keresztül.
-* A beadandók plágiumellenőrzésen mennek keresztül az esetleges másolásokat kiszűrendő.
-* A beadandók készítőit szükség esetén megkérhetjük megoldásaik megvédésére.
+* Összetett feladat megadása funkcionális és nem funkcionális követelmények specifikálásával. 
+* Határidők:
+    * 4\. tanulmányi hét: Projektötlet
+    * ?: Backend megvalósítása
+    * ?: Működő prototípus megvalósítása
+    * ?: Kész alkalmazás
 
 ## Jegyszerzés feltételei
 
 * Részvétel a gyakorlatok legalább 75%-án (maximum 3 hiányzás)
-* Két elfogadott beadandó
-* Megírt évfolyam zh
+* Minden "milestone" beadása időben
+* Elkészített és bemutatott alkalmazás
 
 ## Értékelés
 
-* Évolyam zh jegye + a két beadandó értékelése + a röpzh értékelése.
-* A 2-es érdemjegyhez legalább 2-esre megírt évfolyamzh szükséges.
+* A beadandó feladatokra 0-10 pont kapható, ezt a csoport két tagja saját belátása szerint osztja el egymás között.
+
+# Segédanyagok
+
+* [https://github.com/horvathgyozo/alkfejl-2017](https://github.com/horvathgyozo/alkfejl-2017)
+* [http://tamop412.elte.hu/tananyagok/weblapkeszites](http://tamop412.elte.hu/tananyagok/weblapkeszites)
+* [http://webprogramozas.inf.elte.hu/tananyag/wf2](http://webprogramozas.inf.elte.hu/tananyag/wf2/)
+* [http://ade.web.elte.hu/wabp](http://ade.web.elte.hu/wabp)
+
+# Oktatók
+
+## Tárgyfelelős
+
+Horváth Győző
+
+## Gyakorlatvezetők
+
+* Godzsák Dávid
+* Horváth Győző
+* Kereszti Krisztián
+* Rakonczai Sándor
+* Visnovitz Márton

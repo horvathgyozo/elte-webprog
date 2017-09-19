@@ -37,18 +37,40 @@ title: Webprogramozás az ELTE IK-n
 </section>
 
 <section class="text-center kek">
+    <h2>Tananyagok</h2>
     <div class="container">
-        <h2>Tananyagok</h2>
+        <div class="row text-center equal">
+            {% for page in site.materials %}
+                <div class="col-sm-6">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>{{ page.title }}</h3>
+                            <p>{{ page.shortdesc }}</p>
+                            <a href="{{ page.permalink }}" class="btn btn-primary" role="button">
+                                Tanayag megtekintése
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
     </div>
 </section>
 
 <section class="text-center sarga">
+    <h2>Projektek</h2>
     <div class="container">
         <div class="col-md-6 col-md-offset-3">
-            <h2>Projektek</h2>
             <p>A webes szoftvertechnológia labor keretében lehetőség van különböző webes projektekben részt venni. A projektek elsősorban a frontendre fókuszálnak, szerveroldalon az üzleti rétegig terjednek.</p>
             <a href="" class="btn btn-primary">Projektleírások</a>
         </div>
     </div>
 </section>
 
+<section id="footer">
+    <footer class="container text-center">
+        <div class="row">
+            <p>Horváth Győző</p>
+        </div>
+    </footer>
+</section>

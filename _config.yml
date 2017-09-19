@@ -35,6 +35,11 @@ collections:
   subjects:    
     permalink:      /:name
     output:         true
+  materials:
+    permalink:      /tananyag/:name
+  projects:
+    permalink:      /projekt/:name
+    output:         true
 
 # Plugins
 plugins:
