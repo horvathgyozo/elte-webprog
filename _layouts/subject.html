@@ -5,7 +5,7 @@ layout: default
 <header id="backlink" class="bg-dark">
     <a href="/" class="text-white">
         <strong>
-            <i class="fa fa-arrow-left"></i>
+            <i class="glyphicon glyphicon-chevron-left"></i>
             Webprogramozás tárgyak
         </strong>
     </a>
@@ -17,9 +17,14 @@ layout: default
             <aside class="thumbnail toc col-md-3">
                 {{ content | toc_only }}
             </aside>
+            <main class="col-md-9">
+                {{ content | anchor_only }}
+            </main>
+        {% else %}
+            <main class="col-md-8 col-md-offset-2">
+                {{ content | anchor_only }}
+            </main>
         {% endif %}
-        <main class="col-md-9">
-            {{ content | anchor_only }}
-        </main>
+        
     </div>
 </div>

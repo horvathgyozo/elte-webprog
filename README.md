@@ -19,7 +19,7 @@ Minden fájlból saját link generálódik a főoldalon, illetve azon tárgyak, 
 
 Minden egyes `.md` fájlnak kell legyen egy "Front matter" része, ami az alábbi információkat kell tartalmazza:
 
-```xml
+```
 ---
 layout: subject
 title: <az adott tárgy neve>
@@ -36,7 +36,7 @@ Minden egyes tananyagnak egy saját `.md` file-ja van az `_materials` mappában.
 
 Minden egyes `.md` fájlnak az alábbi "Front matter" információkat kell tartalmaznia:
 
-```xml
+```
 title: <az adott tananyag neve>
 permalink: <az adott tananyag elérési útja>
 shortdesc: >
@@ -45,5 +45,19 @@ shortdesc: >
 
 ## Projektek
 
-Minden egyes projektnek egy saját `.md` file-ja van az `_projects` mappában.
+Minden egyes projektnek egy saját `.md` file-ja van az `_projects` mappában. Minden ilyen `.md` fájl egy-egy projekt aloldalának felel meg. A projektek neve, rövid leírása és címkéi automatikusan egy listában megjelennek a `/webtech` oldalon, ami a "Webes szoftvertechnológia labor" tárgy oldala. Innen lehet leérni az adott projektek oldalait.
+
+Minden egyes `.md` fájlnak az alábbi "Front matter" információkat kell tartalmaznia:
+
+```
+title: <az adott projekt címe>
+layout: project
+permalink: <az adott projekt elérési útja (/projects/:name)>
+shortdesc: >
+  <az adott projekt rövid leírása>
+tags: 
+  - label: <a címke felirata>
+    context: <az adott címke bootstrap context-je (default|primary|info|warning|error)>
+  - <további címkék ugyanazen szintaxissal>
+  ```
 

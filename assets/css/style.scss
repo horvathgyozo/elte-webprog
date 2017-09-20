@@ -92,6 +92,10 @@ dl {
     }
 }
 
+img {
+    max-width: 100%;
+}
+
 #backlink {
     height: 32px;
     line-height: 32px;
@@ -133,6 +137,14 @@ dl {
 	margin-bottom: 0;
 	background-color: #04356B;
 	color: white;
+}
+
+.list-group-item:nth-child(odd) {
+    background: #F5F5F5;
+}
+
+a.list-group-item:hover {
+    background: #D6E7EE;
 }
 
 .equal, .equal > div[class*='col-'] {
