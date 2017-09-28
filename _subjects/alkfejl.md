@@ -1,7 +1,7 @@
 ---
 layout: subject
 title: Alkalmazások fejlesztése
-permalink: /alkfejl
+permalink: /alkfejl.html
 toc: true
 shortdesc: >
     Modern kliens-szerver alkalmazások írása webtechnológiák segítségével. A technológiai ismereteken túl az alkalmazásfejlesztés életciklusával is megismerkednek a hallgatók a tervezéstől a tesztelésen át a dokumentálásig.

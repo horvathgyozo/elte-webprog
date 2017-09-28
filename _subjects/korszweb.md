@@ -1,7 +1,7 @@
 ---
 title: Korszerű webfejlesztés
 layout: subject
-permalink: /korszweb
+permalink: /korszweb.html
 toc: true
 shortdesc: >
     A tárgy elsősorban az aktuálisan korszerű webes technológiák és a hozzájuk kapcsolódó fejlesztési módszertanok megismertetését célozza meg. A hallgatók a gyorsan változó webes világ aktuális tendenciáival és eszközeivel ismerkedhetnek meg úgy, hogy közben az is cél, hogy csoportosan dolgozva komplex, ugyanakkor skálázható, érthető, karbantartható kódot írjanak.
