@@ -1,7 +1,7 @@
 ---
 layout: subject
 title: Webfejlesztés 2.
-permalink: /webfejl.html
+permalink: webfejl.html
 toc: true
 shortdesc: >
     Bevezetés a dinamikus kliens- és szerveroldali programozás világába. Alapvető JavaScript és PHP ismeretek.
