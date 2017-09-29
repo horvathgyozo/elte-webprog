@@ -1,7 +1,7 @@
 ---
 title: Webes szoftvertechnológia labor
 layout: subject
-permalink: /webtech.html
+permalink: webtech.html
 ---
 
 # Leírás
