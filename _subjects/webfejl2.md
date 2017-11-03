@@ -5,6 +5,15 @@ permalink: webfejl.html
 toc: true
 shortdesc: >
     Bevezetés a dinamikus kliens- és szerveroldali programozás világába. Alapvető JavaScript és PHP ismeretek.
+lectures:
+  - title: 1. A HTML programozás alapjai
+    permalink: webfejl2t/ea/01/
+  - title: 2. A HTML programozás alapjai, események, nyelvi elemek, beépített objektumok
+    permalink: webfejl2t/ea/02_03/
+  - title: 3. Stílusok kezelése, rasztergrafika, nyelvi elemek
+    permalink: webfejl2t/ea/04_05/
+  - title: 4. Kódszervezés, TypeScript, külső függvénykönyvtárak
+    permalink: webfejl2t/ea/06_07/
 ---
 
 # Általános információk
@@ -90,6 +99,17 @@ A grafikon megrajzolását `canvas` techonológiával kell megoldani.
 ## Értékelés
 
 * A három beadandó feladat jegyének átlaga
+
+# Előadások
+
+<div class="list-group">
+    {% for lecture in page.lectures %}
+        <a href="{{ lecture.permalink }}" class="list-group-item">
+            {{ lecture.title }}
+            <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
+        </a>
+    {% endfor %}
+</div>
 
 # Segédanyagok
 
