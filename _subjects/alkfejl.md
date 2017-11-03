@@ -40,7 +40,7 @@ Környezet
 
 A félév során egyetlen feladat lépésenkénti elkészítése lesz a cél. A feladatot **kétfős csoportok** végzik el. A fejlesztéshez **git** verziókövető rendszert kell használni, az egyes fázisokat megfelelően rögzítve a rendszerben (azaz nem a teljes fejlesztést követően kell a kódtárat feltölteni). Az alkalmazást **publikus Github kódtár**ként kell közzétenni a csoporttagok egyikének azonosítója alatt. A csoport másik tagja közreműködőként van a kódtárhoz rendelve. A feladathoz **dokumentáció** írása is szükséges. Végül az elkészült alkalmazást a dokumentációval együtt **be kell mutatni**. A fejlesztés egyes fázisait a megfelelő határidőre el kell készíteni, és erről a gyakorlatvezetőt értesíteni kell.
 
-A fejlesztendő alkalmazásnak hasonló komplexitásúnak kell lennie, mint ami a [webes alklmazások fejlesztése](http://people.inf.elte.hu/groberto/elte_waf/feladatok/elte_waf_feladatok.pdf) tárgynál elvárnak. A feladatnak tartalmaznia kell:
+A fejlesztendő alkalmazásnak hasonló komplexitásúnak kell lennie, mint ami a [webes alkalmazások fejlesztése](http://people.inf.elte.hu/groberto/elte_waf/feladatok/elte_waf_feladatok.pdf) tárgynál elvárnak. A feladatnak tartalmaznia kell:
 
 - Adatbázis
     + legalább 4 táblát
@@ -137,6 +137,9 @@ A bemutatás után a gyakorlatvezető és a csoporttagok is kérdéseket tehetne
 
 * [A tárgy e félévi Github oldala](https://github.com/horvathgyozo/alkfejl-2017)
 * [Segítség a dokumentációhoz](https://github.com/horvathgyozo/alkfejl_minta)
+* Mintadokumentációk
+    - [Képgalériás alkalmazás (Bartalos Gábor)](https://github.com/KisGabo/gallery-elteik/wiki)
+    - [Szerepjáték (Teleki Miklós)](https://github.com/Telmike91/alkfejlszerver)
 * [HTML tananyag (Abonyi-Tóth Andor): A weblapkészítés technikája (HTML5, CSS3) és ergonómiája](http://tamop412.elte.hu/tananyagok/weblapkeszites)
 * [Bevezetés a kliens- és szerveroldali webalkalmazások készítésébe (elektronikus tananyag)](http://webprogramozas.inf.elte.hu/tananyag/wf2/)
 * [Webadatbázis-programozás (elektronikus tananyag, PHP alapokon, de a tervezés, az MNV-minta bemutatása és a kliensoldali fejlesztés része itt is aktuális)](http://ade.web.elte.hu/wabp)
