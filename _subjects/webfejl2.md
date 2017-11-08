@@ -37,7 +37,7 @@ Környezet
 ## Az értékelés összetevői
 
 * Beadandó feladat: JavaScript (DOM)
-    Határidő: 2017. november 12. éjfél
+    Határidő: 2017. november 19. éjfél
 * Beadandó feladat: JavaScript (canvas)
     Határidő: 2017. december 31. éjfél  
 * Beadandó feladat: PHP
