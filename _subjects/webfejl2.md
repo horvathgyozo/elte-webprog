@@ -64,7 +64,7 @@ A feladatod, hogy készíts egy olyan minialkalmazást, ami bemutatja valamelyik
 
 ### Feladat
 
-A feladatod, hogy készíts egy olyan minialkalmazást, ami HTML űrlap beviteli mezők segítségével megkapja egy tetszőleges, legfejlebb harmadfokú polinom (**_y = ax<sup>3</sup> + bx<sup>2</sup> + cx + d_**) együtthatóit (**_a, b, c, d_**), és ezek alapján egy gombra kattintva ábrázolja egy megadott (**_x1, x2_**) tartományban az adott polinom grafikonját.
+A feladatod, hogy készíts egy olyan minialkalmazást, ami HTML űrlap beviteli mezők segítségével megkapja egy tetszőleges, legfejlebb harmadfokú polinom (**_y = ax<sup>3</sup> + bx<sup>2</sup> + cx + d_**) együtthatóit (**_a, b, c, d_**), és ezek alapján egy gombra kattintva ábrázolja egy megadott (**_x<sub></sub>, x<sub>2</sub>_**) tartományban az adott polinom grafikonját.
 
 A grafikon megrajzolását `canvas` techonológiával kell megoldani.
 
@@ -74,13 +74,32 @@ A grafikon megrajzolását `canvas` techonológiával kell megoldani.
 * A gomb megnyomására valamilyen grafikon megjelenik
 * A grafikonon tengelyek látszanak
 * A tengelyeknek valamilyen osztásköze látszik
-* A tengelyeken látszik, hogy mettől meddig (**_x1, x2_**) van ábrázolva a polinom
+* A tengelyeken látszik, hogy mettől meddig (**_x<sub>1</sub>, x<sub>2</sub>_**) van ábrázolva a polinom
 * A polinom bizonyos pontjai helyesen megjelennek
 * A polinom helyesen, összefüggően kirajzolódik
 * A grafikon **_x_** irányban automatikusan méreteződik, hogy a polinom beleférjen
 * A grafikon **_y_** irányban automatikusan méreteződik, hogy a polinom beleférjen
 * Nincsenek fura jelenségek, bugok
 
+## Beadandó feladat: PHP
+
+### Feladat
+
+A feldatod, hogy készíts egy egyszerű időpont-foglaló rendszert. Az alkalmazásban egy táblázatban jelennek meg a foglalható időpontok a hét minden napjára 8-20 óra között egy órás bontásban. A táblázat mellett egy űrlap látható, melyen a név, az adott nap és azon belül az adott időpont (óra) kiválasztásával lehet foglalni időpontot. Az "elküldés" gombra kattintva tároljuk el, hogy ki és melyik időpontra jelentkezett. Ha hiba történt (nem megfelelően kitöltött adatok, nem szabad az időpont) azt megfelelő hibaüzenettel jelezzük. A rögzített foglalások a táblázatban színes háttérrel jelenjenek meg és tartalmazzák a foglaló nevét. A foglalásra kattintva azt lehesssen törölni, illetve legyen lehetőség az összes foglalás egyidejű törlésére is.
+
+Az adatokat **adatbázisban** kell tárolni.
+
+### Értékelési szempontok
+
+* Az űrlapon megadhatóak a foglaláshoz szükséges adatok
+* Létezik az adatbázis és alkalmas a szükséges adatok tárolására
+* A gomb megnyomására az adatok eltárolódnak az adatbázisban
+* Hibás bemenet esetén azt megfelelő hibaüzenet jelzi
+* Hibaüzenet jelzi, ha a foglalni kívánt időpont már nem üres
+* A foglalások megjelennek a táblázatban, látszik a foglaló neve
+* Egy foglalás törölhető ha rákattintunk
+* Van lehetőség az összes foglalás törlésére
+* Nincsenek fura jelenségek, bugok
 
 ## A beadandók értékelése
 
