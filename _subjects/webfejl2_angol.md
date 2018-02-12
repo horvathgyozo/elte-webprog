@@ -1,6 +1,6 @@
 ---
 layout: subject
-title: Web Development 2. (ENG)
+title: Web Development 2.
 permalink: webdev.html
 toc: true
 lectures:

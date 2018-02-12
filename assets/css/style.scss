@@ -33,6 +33,12 @@
     }
 }
 
+@media screen and (max-width: 991px) {
+    .toc {
+        position: static;
+    }
+}
+
 // Régi CSS
 
 section {
