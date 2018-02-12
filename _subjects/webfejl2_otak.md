@@ -1,10 +1,8 @@
 ---
 layout: subject
-title: Webfejlesztés 2.
-permalink: webfejl.html
+title: Webfejlesztés 2. (OTAK)
+permalink: webfejl2_otak.html
 toc: true
-shortdesc: >
-    Bevezetés a dinamikus kliens- és szerveroldali programozás világába. Alapvető JavaScript és PHP ismeretek.
 lectures:
   - title: 1. A HTML programozás alapjai
     permalink: webfejl2t/ea/01/
@@ -28,7 +26,7 @@ Célkitűzés
 : A dinamikus kliens- és szerveroldali webprogramozás alapjainak a megismertetése. A félév első felében a JavaScript nyelvvel és a hozzá kapcsolódó alapfokú webes technológiákkal ismerkednek meg a hallgatók, a félév második felében a PHP nyelven keresztül ismerkednek meg a szerveroldali webprogramozás alapjaival.
 
 Környezet
-: A szerveroldali dinamikus weblapok készítését a webprogramozas.inf.elte.hu szerver segítségével végezzük el. A szerveren Apache webszerver, 7.0.9-es verziójú PHP fut. A szerverre a félév elején, a gyakorlati jelentkezések lejártakor minden hallgató kap hozzáférést. A webprogramozás szerverre kell a beadandó feladatokat feltölteni, ezen folyik a félév második felében a gyakorlati munka, illetve ezen írjuk a félév végi évfolyam zh-t is.
+: A szerveroldali dinamikus weblapok készítését a webprogramozas.inf.elte.hu szerver segítségével végezzük el. A szerveren Apache webszerver, 7.0.9-es verziójú PHP fut. A szerverre a félév elején, a gyakorlati jelentkezések lejártakor minden hallgató kap hozzáférést. A webprogramozás szerverre kell a beadandó feladatokat feltölteni, ezen folyik a félév második felében a gyakorlati munka.
 
 # Számonkérés
 
@@ -85,7 +83,7 @@ A grafikon megrajzolását `canvas` techonológiával kell megoldani.
 
 ### Feladat
 
-A feldatod, hogy készíts egy egyszerű időpont-foglaló rendszert. Az alkalmazásban egy táblázatban jelennek meg a foglalható időpontok a hét minden napjára 8-20 óra között egy órás bontásban. A táblázat mellett egy űrlap látható, melyen a név, az adott nap és azon belül az adott időpont (óra) kiválasztásával lehet foglalni időpontot. Az "elküldés" gombra kattintva tároljuk el, hogy ki és melyik időpontra jelentkezett. Ha hiba történt (nem megfelelően kitöltött adatok, nem szabad az időpont) azt megfelelő hibaüzenettel jelezzük. A rögzített foglalások a táblázatban színes háttérrel jelenjenek meg és tartalmazzák a foglaló nevét. A foglalásra kattintva azt lehesssen törölni, illetve legyen lehetőség az összes foglalás egyidejű törlésére is.
+A feladatod, hogy készíts egy egyszerű időpont-foglaló rendszert. Az alkalmazásban egy táblázatban jelennek meg a foglalható időpontok a hét minden napjára 8-20 óra között egy órás bontásban. A táblázat mellett egy űrlap látható, melyen a név, az adott nap és azon belül az adott időpont (óra) kiválasztásával lehet foglalni időpontot. Az "elküldés" gombra kattintva tároljuk el, hogy ki és melyik időpontra jelentkezett. Ha hiba történt (nem megfelelően kitöltött adatok, nem szabad az időpont) azt megfelelő hibaüzenettel jelezzük. A rögzített foglalások a táblázatban színes háttérrel jelenjenek meg és tartalmazzák a foglaló nevét. A foglalásra kattintva azt lehessen törölni, illetve legyen lehetőség az összes foglalás egyidejű törlésére is.
 
 Az adatokat **adatbázisban** kell tárolni.
 
@@ -106,7 +104,7 @@ Az adatokat **adatbázisban** kell tárolni.
 * A beadandók értékelése jeggyel történik: 1-5 jegy kapható rá.
 * Az értékelés egy mindenki számára elérhető szempontok alapján történik.
 * A beadandókat határidőre kell elkészíteni.
-* A beadandókat a webprogramozas szerverre kell feltölteni a [feltöltő felületen](http://webprogramozas.inf.elte.hu/ebr) keresztül.
+* A beadandókat a webprogramozás szerverre kell feltölteni a [feltöltő felületen](http://webprogramozas.inf.elte.hu/ebr) keresztül.
 * A beadandók plágiumellenőrzésen mennek keresztül az esetleges másolásokat kiszűrendő.
 * A beadandók készítőit szükség esetén megkérhetjük megoldásaik megvédésére.
 
