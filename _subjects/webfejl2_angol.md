@@ -1,9 +1,18 @@
 ---
 layout: subject
 title: Web Development 2.
-permalink: webdev.html
+permalink: webdev2.html
 toc: true
 lectures:
+  - title: 1. Introduction, requirements
+    permalink: webdev2/lectures/01/
+    date: 2018.02.13.
+  - title: 2. The basics of HTML programming. DOM, events, code structure.
+    permalink: webdev2/lectures/02/
+    date: 2018.02.13.
+practices:
+  - title: 1. Language features of JavaScript
+    permalink: webdev2/practices/01/
 ---
 
 # General information
@@ -59,7 +68,19 @@ Environment
 <div class="list-group">
     {% for lecture in page.lectures %}
         <a href="{{ lecture.permalink }}" class="list-group-item">
+            <small>{{ lecture.date }}</small>
             {{ lecture.title }}
+            <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
+        </a>
+    {% endfor %}
+</div>
+
+# Practices
+
+<div class="list-group">
+    {% for practice in page.practices %}
+        <a href="{{ practice.permalink }}" class="list-group-item">
+            {{ practice.title }}
             <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
         </a>
     {% endfor %}

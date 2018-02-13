@@ -4,6 +4,9 @@ title: Modern technológiák 2.
 permalink: moderntech2.html
 toc: true
 lectures:
+  - title: 1. Bevezetés, követelmények, JavaScript nyelvi alapok
+    permalink: moderntech2/ea/01/
+    date: 2018.02.13.
 ---
 
 # Általános információk
@@ -54,6 +57,7 @@ Környezet
 <div class="list-group">
     {% for lecture in page.lectures %}
         <a href="{{ lecture.permalink }}" class="list-group-item">
+            <small>{{ lecture.date }}</small>
             {{ lecture.title }}
             <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
         </a>
