@@ -25,21 +25,35 @@ kramdown:
 
 # Default front matter
 defaults: 
-  -
-    values:
+  - values:           # defaul for all pages
       layout:         default
       lang:           hu
+  - scope:
+      type: subjects
+    values:
+      layout: subject
+  - scope:
+      type: projects
+    values:
+      layout: project
+  - scope:
+      type: courses
+    values:
+      layout: course
 
 # Collections
 collections: 
   subjects:    
-    permalink:      /:name
+    permalink:      /:name:output_ext
+    output:         true
+  projects:
+    permalink:      /projekt/:name:output_ext
+    output:         true
+  courses:
+    permalink:      /:path:output_ext
     output:         true
   materials:
-    permalink:      /tananyag/:name
-  projects:
-    permalink:      /projekt/:name
-    output:         true
+    permalink:      /tananyag/:name:output_ext
 
 # Plugins
 plugins:

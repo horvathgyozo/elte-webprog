@@ -1,0 +1,11 @@
+<div class="list-group">
+  {% assign subject = page.id | remove_first:"/" %}
+  {% assign lectures = site.courses | where:"subject",subject | where:"type","ea" %}
+  {% for lecture in lectures %}
+      <a href="{{ lecture.url }}" class="list-group-item">
+          {{ lecture.date | date: "%Y. %m. %d." }}
+          <strong>{{ lecture.title }}</strong>
+          <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
+      </a>
+  {% endfor %}
+</div>

@@ -1,7 +1,5 @@
 ---
-layout: subject
 title: Webfejlesztés 2. (OTAK)
-permalink: webfejl2_otak.html
 toc: true
 lectures:
   - title: 1. A HTML programozás alapjai
@@ -119,14 +117,7 @@ Az adatokat **adatbázisban** kell tárolni.
 
 # Előadások
 
-<div class="list-group">
-    {% for lecture in page.lectures %}
-        <a href="{{ lecture.permalink }}" class="list-group-item">
-            {{ lecture.title }}
-            <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
-        </a>
-    {% endfor %}
-</div>
+{% include lectures-external.html %}
 
 # Segédanyagok
 

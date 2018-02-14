@@ -1,7 +1,5 @@
 ---
 title: Programozási környezet fejlesztése
-layout: project
-permalink: /projects/progenv.html
 shortdesc: >
   Különböző oktatási és módszertani igényeket kiszolgáló webes programozási környezet fejlesztése. A felület egy egyoldalas alkalmazás, amely REST API-n keresztül kapcsolódik a szerveroldali logikához, ahol a programkódok virtuális konténerekben futnak le. Jelenleg TypeScript és C++ nyelveket támogatja a környezet. Feladat: felhasználó- és csoportkezelés hozzáadása, feladatok felhasználókhoz rendelése, további nyelvek támogatása.
 tags:

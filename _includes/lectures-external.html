@@ -1,0 +1,9 @@
+<div class="list-group">
+  {% for lecture in page.lectures %}
+      <a href="{{ lecture.permalink }}" class="list-group-item">
+          {{ lecture.date | date: "%Y. %m. %d." }}
+          <strong>{{ lecture.title }}</strong>
+          <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
+      </a>
+  {% endfor %}
+</div>

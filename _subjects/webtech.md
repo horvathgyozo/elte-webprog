@@ -1,7 +1,5 @@
 ---
 title: Webes szoftvertechnológia labor
-layout: subject
-permalink: webtech.html
 ---
 
 # Leírás
@@ -17,7 +15,7 @@ A webes szoftvertechnológia labor keretében lehetőség van különböző webe
 
 <div class="list-group">
   {% for project in site.projects %}
-      <a href="{{ project.permalink }}" class="list-group-item">
+      <a href="{{ project.url }}" class="list-group-item">
         <span class="pull-right">
           {% for tag in project.tags %}
             <span class="label label-{{ tag.context }}">{{ tag.label }}</span>

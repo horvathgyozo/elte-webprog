@@ -1,11 +1,12 @@
 ---
-layout: subject
 title: Webfejlesztés 2. (PTI)
-permalink: webfejl2_pti.html
 toc: true
 shortdesc: >
     Bevezetés a dinamikus kliens- és szerveroldali programozás világába. Alapvető JavaScript és PHP ismeretek.
 lectures:
+  - title: 1. Bevezetés, követelmények, JavaScript nyelvi alapok
+    permalink: webfejl2/ea/01/
+    date: 2018.02.14.
 ---
 
 # Általános információk
@@ -65,14 +66,11 @@ Környezet
 
 # Előadások
 
-<div class="list-group">
-    {% for lecture in page.lectures %}
-        <a href="{{ lecture.permalink }}" class="list-group-item">
-            {{ lecture.title }}
-            <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
-        </a>
-    {% endfor %}
-</div>
+{% include lectures-external.html %}
+
+# Gyakorlatok
+
+{% include practices.html %}
 
 # Segédanyagok
 
@@ -95,10 +93,10 @@ Horváth Győző
 
 ## Gyakorlatvezetők
 
-Bende Imre
-Demsa Miklós
-Kereszti Krisztián
-Kereszti Zalán
-Horváth Győző
-Rakonczai Sándor
-[Visnovitz Márton](https://github.com/vimtaai/elte/tree/master/2017-18-2)
+* Bende Imre
+* Demsa Miklós
+* Kereszti Krisztián
+* Kereszti Zalán
+* Horváth Győző
+* Rakonczai Sándor
+* [Visnovitz Márton](https://github.com/vimtaai/elte/tree/master/2017-18-2)

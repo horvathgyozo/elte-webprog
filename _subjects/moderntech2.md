@@ -1,7 +1,5 @@
 ---
-layout: subject
 title: Modern technológiák 2.
-permalink: moderntech2.html
 toc: true
 lectures:
   - title: 1. Bevezetés, követelmények, JavaScript nyelvi alapok
@@ -54,15 +52,7 @@ Környezet
 
 # Előadások
 
-<div class="list-group">
-    {% for lecture in page.lectures %}
-        <a href="{{ lecture.permalink }}" class="list-group-item">
-            <small>{{ lecture.date }}</small>
-            {{ lecture.title }}
-            <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
-        </a>
-    {% endfor %}
-</div>
+{% include lectures-external.html %}
 
 # Segédanyagok
 

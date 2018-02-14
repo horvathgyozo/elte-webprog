@@ -19,6 +19,9 @@
     .toc ul ul, .toc ul .toc-h2, .toc ul .toc-h3 {
       display: none; }
 
+@media (max-width: 991px) {
+  .toc {
+    position: static; } }
 section {
   padding: 30px; }
   section h2 {
