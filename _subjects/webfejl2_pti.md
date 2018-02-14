@@ -6,6 +6,9 @@ toc: true
 shortdesc: >
     Bevezetés a dinamikus kliens- és szerveroldali programozás világába. Alapvető JavaScript és PHP ismeretek.
 lectures:
+  - title: 1. Bevezetés, követelmények, JavaScript nyelvi alapok
+    permalink: webfejl2/ea/01/
+    date: 2018.02.14.
 ---
 
 # Általános információk
@@ -68,11 +71,16 @@ Környezet
 <div class="list-group">
     {% for lecture in page.lectures %}
         <a href="{{ lecture.permalink }}" class="list-group-item">
+            <small>{{ lecture.date }}</small>
             {{ lecture.title }}
             <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
         </a>
     {% endfor %}
 </div>
+
+# Gyakorlatok
+
+
 
 # Segédanyagok
 
