@@ -109,7 +109,7 @@ Környezet
 # Gyakorlatok
 
 <div class="list-group">
-  {% for practice in practices %}
+  {% for practice in page.practices %}
       <a href="{{ practice.permalink }}" class="list-group-item">
           <strong>{{ practice.title }}</strong>
           <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>

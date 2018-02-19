@@ -1,5 +1,5 @@
 ---
-title: Játékprogramok készítése webes technológiákkal
+title: Játékprogramok készítése
 toc: true
 shortdesc: >
     Játékprogramok készítése webes és JavaScript technológiák segítségével.

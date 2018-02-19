@@ -3,7 +3,6 @@
   {% assign practices = site.courses | where:"subject",subject | where:"type","gyak" %}
   {% for practice in practices %}
       <a href="{{ practice.url }}" class="list-group-item">
-          {{ practice.date | date: "%Y. %m. %d." }}
           <strong>{{ practice.title }}</strong>
           <span class="glyphicon glyphicon-menu-right pull-right" aria-hidden="true"></span>
       </a>
