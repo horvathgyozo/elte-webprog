@@ -8,15 +8,15 @@ lectures:
     permalink: webfejl2/ea/01/
   - title: Követelmények ismertetése. JavaScript nyelvi alapok
     permalink: weaf1/ea/weaf1_01.pdf
-  - title: JavaScript: függvények
+  - title: "JavaScript: függvények"
     permalink: weaf1/ea/weaf1_02.pdf
-  - title: JavaScript: objektumok
+  - title: "JavaScript: objektumok"
     permalink: weaf1/ea/weaf1_03.pdf
-  - title: JavaScript: BOM és DOM (jQuery)
+  - title: "JavaScript: BOM és DOM (jQuery)"
     permalink: weaf1/ea/weaf1_04.pdf
-  - title: JavaScript: objektumok létrehozása klasszikus OOP stílusban. Kódszervezés. Modularizált JavaScript.
+  - title: "JavaScript: objektumok létrehozása klasszikus OOP stílusban. Kódszervezés. Modularizált JavaScript."
     permalink: weaf1/ea/weaf1_05.pdf
-  - title: JavaScript: Programozási és tervezési minták. jQuery plugin készítés
+  - title: "JavaScript: Programozási és tervezési minták. jQuery plugin készítés"
     permalink: weaf1/ea/weaf1_06.pdf
   - title: Nagy méretű kliensoldali webes alkalmazások
     permalink: weaf1/ea/weaf1_07.pdf
@@ -26,7 +26,7 @@ lectures:
     permalink: weaf1/ea/weaf1_10.pdf
   - title: Saját MVC-s keretrendszer (miniMVC), MVC minta finomítása, egyéb funkciók beillesztése az MVC mintába. További funkciók helye az MVC mintában. CodeIgniter plusz tulajdonságok.
     permalink: weaf1/ea/weaf1_11.pdf
-  - title: AJAX: elvek, megvalósítások, keretrendszerek. Aszinkronitás kezelése.
+  - title: "AJAX: elvek, megvalósítások, keretrendszerek. Aszinkronitás kezelése."
     permalink: weaf1/ea/weaf1_12.pdf
   - title: Weboldalak progresszív fejlesztése.
     permalink: weaf1/ea/weaf1_13.pdf
