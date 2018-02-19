@@ -4,9 +4,7 @@ toc: true
 shortdesc: >
     Kliens- és szerveroldali programozás magasabb szinten. Modern programozási minták a JavaScript és PHP programozásának világában.
 lectures:
-  - title: 1. Bevezetés, követelmények, JavaScript nyelvi alapok
-    permalink: webfejl2/ea/01/
-  - title: Követelmények ismertetése. JavaScript nyelvi alapok
+  - title: JavaScript nyelvi alapok
     permalink: weaf1/ea/weaf1_01.pdf
   - title: "JavaScript: függvények"
     permalink: weaf1/ea/weaf1_02.pdf
