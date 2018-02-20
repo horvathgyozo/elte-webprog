@@ -8,6 +8,9 @@ lectures:
   - title: 2. The basics of HTML programming. DOM, events, code structure.
     permalink: /webdev2/lectures/02/
     date: 2018.02.13.
+  - title: 3. Events, language elements, built-in objects
+    permalink: /webdev2/lectures/03/
+    date: 2018.02.13.
 ---
 
 # General information
