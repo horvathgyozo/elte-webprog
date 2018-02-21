@@ -29,6 +29,13 @@ Environment
 
 # Requirements
 
+## Components
+
+- JavaScript test (2018.03.27.)
+- PHP test (2018.05.22.)
+- Complex home project (submission date: 2018.05.27.)
+
+
 <!--Összevont (folyamatos) értékelésű tárgy.
 
 ## Az értékelés összetevői

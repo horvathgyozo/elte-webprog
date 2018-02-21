@@ -7,6 +7,9 @@ lectures:
   - title: 1. Bevezetés, követelmények, JavaScript nyelvi alapok
     permalink: webfejl2/ea/01/
     date: 2018.02.14.
+  - title: 2. A HTML programozás alapjai
+    permalink: moderntech2/ea/02/
+    date: 2018.02.21.
 ---
 
 # Általános információk
