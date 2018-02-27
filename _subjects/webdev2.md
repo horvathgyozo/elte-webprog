@@ -10,7 +10,10 @@ lectures:
     date: 2018.02.13.
   - title: 3. Events, language elements, built-in objects
     permalink: /webdev2/lectures/03/
-    date: 2018.02.13.
+    date: 2018.02.20.
+  - title: 4. Forms, images, tables, browser window
+    permalink: /webdev2/lectures/04/
+    date: 2018.02.27.
 ---
 
 # General information

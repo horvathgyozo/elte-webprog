@@ -8,6 +8,9 @@ lectures:
   - title: 2. A HTML programozás alapjai
     permalink: moderntech2/ea/02/
     date: 2018.02.20.
+  - title: 3. Események, nyelvi elemek, beépített objektumok
+    permalink: moderntech2/ea/03/
+    date: 2018.02.27.
 ---
 
 # Általános információk
