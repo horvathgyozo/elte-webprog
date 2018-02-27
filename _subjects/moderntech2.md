@@ -62,6 +62,8 @@ Környezet
 
 # Gyakorlófeladatok
 
+Ezeken az egyszerű feladatokon lehet otthon gyakorolni az órákon érintett témaköröket.
+
 {% include practices.html %}
 
 # Segédanyagok
