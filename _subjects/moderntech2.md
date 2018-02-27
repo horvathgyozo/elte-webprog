@@ -60,6 +60,10 @@ Környezet
 
 {% include lectures-external.html %}
 
+# Gyakorlófeladatok
+
+{% include practices.html %}
+
 # Segédanyagok
 
 ## Elektronikus tananyag
