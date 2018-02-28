@@ -8,8 +8,11 @@ lectures:
     permalink: webfejl2/ea/01/
     date: 2018.02.14.
   - title: 2. A HTML programozás alapjai
-    permalink: moderntech2/ea/02/
+    permalink: webfejl2/ea/02/
     date: 2018.02.21.
+  - title: 3. Események, nyelvi elemek, beépített objektumok
+    permalink: webfejl2/ea/03/
+    date: 2018.02.28.
 ---
 
 # Általános információk
