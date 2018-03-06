@@ -14,6 +14,9 @@ lectures:
   - title: 4. Forms, images, tables, browser window
     permalink: /webdev2/lectures/04/
     date: 2018.02.27.
+  - title: 5. Timers, styles and animations
+    permalink: /webdev2/lectures/05/
+    date: 2018.03.06.
 ---
 
 # General information

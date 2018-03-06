@@ -11,6 +11,9 @@ lectures:
   - title: 3. Események, nyelvi elemek, beépített objektumok
     permalink: moderntech2/ea/03/
     date: 2018.02.27.
+  - title: 4. DOM, BOM, kódszervezés
+    permalink: moderntech2/ea/04/
+    date: 2018.03.06.
 ---
 
 # Általános információk
