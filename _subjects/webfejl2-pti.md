@@ -13,6 +13,9 @@ lectures:
   - title: 3. Események, nyelvi elemek, beépített objektumok
     permalink: webfejl2/ea/03/
     date: 2018.02.28.
+  - title: 4. Űrlapok, képek, táblázatok, böngésző
+    permalink: webfejl2/ea/04/
+    date: 2018.03.07.
 ---
 
 # Általános információk
@@ -28,6 +31,26 @@ Célkitűzés
 
 Környezet
 : A szerveroldali dinamikus weblapok készítését a webprogramozas.inf.elte.hu szerver segítségével végezzük el. A szerveren Nginx webszerver, 7-es verziójú PHP fut. A szerverre a félév elején, a gyakorlati jelentkezések lejártakor minden hallgató kap hozzáférést. A webprogramozás szerverre kell a beadandó feladatokat feltölteni, ezen folyik a félév második felében a gyakorlati munka, illetve ezen írjuk a félév végi évfolyam ZH-t is.
+
+# Beadandók
+
+**A következő információk folyamatosan frissülnek!!!**
+
+Ebben a félévben az Etológia Tanszék kérésére kisgyerekeknek szóló webes (telefonon futó) játékokat készítünk el. Több játék közül lehet választani, mindegyikre kb. 20 hallgató jut. A megfelelő táblázatban jelentkezni kell majd, hogy ki melyik játék implementálását végzi el. Mindegyik játék esetén a megoldások közül kiválasztjuk a legjobbat. A legjobb megoldások készítői nyereményben részesülnek, bemutatjuk alkalmazásaikat az előadáson és a webprogramozas oldalon is.
+
+A játékok leírásai alább találhatók. Ezek egyelőre még nem véglegesek. Az implementálás olyan részleteihez, mint érintésvezérlés, vagy mobilra optimalizálás, adunk segítséget leírás formájában. 
+
+[Játékok](https://drive.google.com/open?id=1Bxc7mUzePM-J7eFUhylTenT4gYXaWDeS:
+
+- Irányok mátrix
+- 2D mátrix
+- Irányok
+- Tangram
+- Szín sudoku
+- Memória
+- TicTacToe
+- Mastermind
+
 
 # Számonkérés
 
