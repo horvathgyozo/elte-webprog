@@ -40,7 +40,7 @@ Ebben a félévben az Etológia Tanszék kérésére kisgyerekeknek szóló webe
 
 A játékok leírásai alább találhatók. Ezek egyelőre még nem véglegesek. Az implementálás olyan részleteihez, mint érintésvezérlés, vagy mobilra optimalizálás, adunk segítséget leírás formájában. 
 
-[Játékok](https://drive.google.com/open?id=1Bxc7mUzePM-J7eFUhylTenT4gYXaWDeS:
+[Játékok](https://drive.google.com/open?id=1Bxc7mUzePM-J7eFUhylTenT4gYXaWDeS):
 
 - Irányok mátrix
 - 2D mátrix
