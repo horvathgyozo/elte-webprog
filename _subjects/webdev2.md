@@ -17,6 +17,9 @@ lectures:
   - title: 5. Timers, styles and animations
     permalink: /webdev2/lectures/05/
     date: 2018.03.06.
+  - title: 6. HTML5 JavaScript APIs, 2D graphics, code organization
+    permalink: /webdev2/lectures/06/
+    date: 2018.03.13.
 ---
 
 # General information
