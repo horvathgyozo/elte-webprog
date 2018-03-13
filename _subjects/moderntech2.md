@@ -14,6 +14,9 @@ lectures:
   - title: 4. DOM, BOM, kódszervezés
     permalink: moderntech2/ea/04/
     date: 2018.03.06.
+  - title: 5. Stílusok, animációk kezelése
+    permalink: moderntech2/ea/05/
+    date: 2018.03.13.
 ---
 
 # Általános információk
