@@ -17,6 +17,9 @@ lectures:
   - title: 5. Stílusok, animációk kezelése
     permalink: moderntech2/ea/05/
     date: 2018.03.13.
+  - title: 6. HTML5 JavaScript API-K, 2D Rasztergrafika
+    permalink: moderntech2/ea/06/
+    date: 2018.03.20.
 ---
 
 # Általános információk
