@@ -19,6 +19,9 @@ lectures:
   - title: 5. Stílusok, animáció
     permalink: webfejl2/ea/05/
     date: 2018.03.14.
+  - title: 6. HTML5 API-k, rasztergrafika, kódszervezés
+    permalink: webfejl2/ea/06/
+    date: 2018.03.21.
 ---
 
 # Általános információk
