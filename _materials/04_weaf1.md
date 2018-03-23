@@ -1,6 +1,6 @@
 ---
 title: Modern programozási minták a kliens és szerveroldali webprogramozásban
-permalink: 
+permalinks: 
   - title: Tananyag megtekintése
     link: /tananyag/weaf1
 shortdesc: >
