@@ -20,6 +20,9 @@ lectures:
   - title: 6. HTML5 JavaScript API-K, 2D Rasztergrafika
     permalink: moderntech2/ea/06/
     date: 2018.03.20.
+  - title: 7. PHP nyelvi alapok
+    permalink: moderntech2/ea/07/
+    date: 2018.03.27.
 ---
 
 # Általános információk

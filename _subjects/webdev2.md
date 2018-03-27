@@ -17,9 +17,15 @@ lectures:
   - title: 5. Timers, styles and animations
     permalink: /webdev2/lectures/05/
     date: 2018.03.06.
-  - title: 6. HTML5 JavaScript APIs, 2D graphics, code organization
+  - title: 6. HTML5 JavaScript APIs, 2D graphics
     permalink: /webdev2/lectures/06/
     date: 2018.03.13.
+  - title: 7. Client-side code organization
+    permalink: /webdev2/lectures/06/#/45
+    date: 2018.03.20.
+  - title: 8. Basic language features of PHP
+    permalink: /webdev2/lectures/07/
+    date: 2018.03.27.
 ---
 
 # General information
@@ -40,7 +46,7 @@ Environment
 
 ## Components
 
-- JavaScript test (2018.03.27.)
+- [JavaScript test](http://webprogramozas.inf.elte.hu/webdev2/tests/js_test.html) (2018.03.27.)
 - PHP test (2018.05.22.)
 - Complex home project (submission date: 2018.05.27.)
 
