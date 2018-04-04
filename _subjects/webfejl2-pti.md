@@ -22,6 +22,9 @@ lectures:
   - title: 6. HTML5 API-k, rasztergrafika, kódszervezés
     permalink: webfejl2/ea/06/
     date: 2018.03.21.
+  - title: 7. PHP nyelvi alapok
+    permalink: webfejl2/ea/07/
+    date: 2018.04.04.
 ---
 
 # Általános információk
