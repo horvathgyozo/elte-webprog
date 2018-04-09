@@ -26,6 +26,9 @@ lectures:
   - title: 8. Basic language features of PHP
     permalink: /webdev2/lectures/07/
     date: 2018.03.27.
+  - title: 9. Handling input, form processing
+    permalink: /webdev2/lectures/08/
+    date: 2018.04.09.
 ---
 
 # General information
