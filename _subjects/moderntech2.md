@@ -23,6 +23,9 @@ lectures:
   - title: 7. PHP nyelvi alapok
     permalink: moderntech2/ea/07/
     date: 2018.03.27.
+  - title: 8. Bemenet, űrlapok
+    permalink: moderntech2/ea/08/
+    date: 2018.04.09.
 ---
 
 # Általános információk
