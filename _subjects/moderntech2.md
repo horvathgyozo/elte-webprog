@@ -49,9 +49,9 @@ Környezet
 ## Az értékelés összetevői
 
 * Beadandó feladat: JavaScript
-    Határidő: TBA
+    Határidő: 2018. május 13.
 * Beadandó feladat: PHP
-    Határidő: TBA
+    Határidő: június 10.
 
 ## A beadandók értékelése
 
@@ -61,6 +61,38 @@ Környezet
 * A beadandókat a webprogramozás szerverre kell feltölteni a [feltöltő felületen](http://webprogramozas.inf.elte.hu/ebr) keresztül.
 * A beadandók plágiumellenőrzésen mennek keresztül az esetleges másolásokat kiszűrendő.
 * A beadandók készítőit szükség esetén megkérhetjük megoldásaik megvédésére.
+
+## Beadandó feladat: JavaScript
+
+A feladatod, hogy elkészítsd a "Tic-Tac-Toe" játékot. A játék egy 3x3-as mátrixban játszódik két féle üzemmódban.
+Az egyik lehetőség, amikor két játékos játszik. Ilyenkor felváltva rakhatnak a pálya egy üres mezőjébe a saját szimbólumukból (kék "X" és piros "O").
+Az a játékos nyer, akinek sikerül három egybefüggő (vízszintesen, függőlegesen vagy átlósan) saját szimbólumot összehozni.
+Ha megtelik a pálya és senki nem nyert, akkor a játék döntetlen.
+
+Minimális elvárások:
+
+* A játéktábla megjelenik, a játékos el tudja helyezni a saját szimbólumát
+* A játékosok felváltva követik egymás után és tudnak lépni
+* A lehelyezett szimbólumok megjelennek a játéktáblában, ahol már van szimbólum, oda nem lehet újabbat rakni
+* A játék újraindítható kétjátékos módban
+
+További elvárások:
+
+* A játékosok meg tudják nyerni a játékot, ezt a program kielzi; ha vége a játéknak, azután újra lehet indítani (2 pont)
+* A játék kijelzi, ha döntetlennel ért véget a játék (1 pont)
+* Mindig látszik valamilyen formában, hogy éppen melyik játékos következik (2 pont)
+* A játék véletlenszerűen dönti el, hogy melyik játékos kezd (1 pont)
+* A játék játszható a számítógép ellen is (2 pont)
+  - A számítógép véletlenszerűen lépésekkel tud játszani (2 pont)
+  - A számítógép valamilyen "mesterséges intelligencia" alapján tud játszani (az, hogy mennyire komplex a mesterséges intelligencia, az rád van bízva) (3 pont)
+* Nincsenek bugok, fura jelenségek (1 pont)
+
+### Értékelés
+
+10-14 pont: 5
+5-9 pont: 4
+1-4 pont: 3
+minimum elvárások megvannak: 2
 
 ## Jegyszerzés feltételei
 
@@ -86,6 +118,8 @@ Ezeken az egyszerű feladatokon lehet otthon gyakorolni az órákon érintett t�
 ## Elektronikus tananyag
 
 * [Bevezetés a kliens- és szerveroldali webalkalmazások készítésébe (elektronikus tananyag)](http://webprogramozas.inf.elte.hu/tananyag/wf2/index.html)
+* [A böngésző mint alkalmazásfejlesztési platform](http://webprogramozas.inf.elte.hu/tananyag/kliens)
+* [Dinamikus weboldalak előállítása szerveroldali technológiákkal](http://webprogramozas.inf.elte.hu/tananyag/szerver)
 * [Webadatbázis-programozás](http://ade.web.elte.hu/wabp)
 
 # Oktatók
