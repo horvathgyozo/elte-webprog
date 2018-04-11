@@ -52,7 +52,7 @@ Ebben a félévben az Etológia Tanszék kérésére kisgyerekeknek szóló webe
 
 A játékok leírásai alább találhatók. Ezek egyelőre még nem véglegesek. Az implementálás olyan részleteihez, mint érintésvezérlés, vagy mobilra optimalizálás, adunk segítséget leírás formájában. 
 
-[Játékok](https://drive.google.com/open?id=1Bxc7mUzePM-J7eFUhylTenT4gYXaWDeS):
+[Játékok és leírásaik](https://drive.google.com/open?id=1Bxc7mUzePM-J7eFUhylTenT4gYXaWDeS) (frissítve 2018.04.10.-én!):
 
 - Irányok mátrix
 - 2D mátrix
@@ -115,13 +115,22 @@ A legtöbb alkalmazásban szükség lesz egy fejlécre, és egy -- akár több r
 
 ## Az értékelés összetevői
 
-* Beadandó feladat: JavaScript
-    Határidő: TBA
+* Beadandó feladat: [JavaScript](#beadandók)
+
+    Határidő: 2018. április 15.
+
+    [Beadás](http://webprogramozas.inf.elte.hu/ebr)
+
 * Beadandó feladat: PHP
+
     Határidő: TBA
+
 * Évfolyam ZH
+
     2018\. május 28. 9:00-12:00 és 2018. május 29. 9:00-12:00, Lovarda, Nyelvi- és Adatbázis labor
+
 * PótZH
+
     2018\. június 5. 9:00-12:00, Lovarda
 
 ## A beadandók értékelése
