@@ -25,6 +25,9 @@ lectures:
   - title: 7. PHP nyelvi alapok
     permalink: webfejl2/ea/07/
     date: 2018.04.04.
+  - title: 8. Bemenet, űrlapok
+    permalink: webfejl2/ea/08/
+    date: 2018.04.11.
 ---
 
 # Általános információk
