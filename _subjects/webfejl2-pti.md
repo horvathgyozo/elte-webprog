@@ -28,6 +28,9 @@ lectures:
   - title: 8. Bemenet, űrlapok
     permalink: webfejl2/ea/08/
     date: 2018.04.11.
+  - title: 9. Adattárolás
+    permalink: webfejl2/ea/09/
+    date: 2018.04.18.
 ---
 
 # Általános információk

@@ -25,7 +25,10 @@ lectures:
     date: 2018.03.27.
   - title: 8. Bemenet, űrlapok
     permalink: moderntech2/ea/08/
-    date: 2018.04.09.
+    date: 2018.04.10.
+  - title: 9. Adattárolás
+    permalink: moderntech2/ea/09/
+    date: 2018.04.24.
 ---
 
 # Általános információk
