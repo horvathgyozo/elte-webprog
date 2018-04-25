@@ -31,6 +31,9 @@ lectures:
   - title: 9. Adattárolás
     permalink: webfejl2/ea/09/
     date: 2018.04.18.
+  - title: 10. Munkamenet-kezelés, hitelesítés
+    permalink: webfejl2/ea/10/
+    date: 2018.04.25.
 ---
 
 # Általános információk
