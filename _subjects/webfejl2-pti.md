@@ -34,6 +34,9 @@ lectures:
   - title: 10. Munkamenet-kezelés, hitelesítés
     permalink: webfejl2/ea/10/
     date: 2018.04.25.
+  - title: 11. AJAX
+    permalink: webfejl2/ea/11/
+    date: 2018.05.02.
 ---
 
 # Általános információk
