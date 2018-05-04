@@ -199,15 +199,17 @@ Határidő: 2018. május 27. éjfél
 
 ## Az értékelés összetevői
 
-* Beadandó feladat: [JavaScript](#beadandók)
+* Beadandó feladat: [JavaScript](#javascript-beadandók)
 
     Határidő: 2018. április 15.
 
     [Beadás](http://webprogramozas.inf.elte.hu/ebr)
 
-* Beadandó feladat: PHP
+* Beadandó feladat: [PHP](#php-beadandó--könyvespolc)
 
-    Határidő: TBA
+    Határidő: 2018. május 27. éjfél
+
+    [Beadás](http://webprogramozas.inf.elte.hu/ebr)
 
 * Évfolyam ZH
 
