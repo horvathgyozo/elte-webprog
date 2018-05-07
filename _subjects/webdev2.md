@@ -32,6 +32,9 @@ lectures:
   - title: 10. Persisting data, handling files
     permalink: /webdev2/lectures/09/
     date: 2018.04.24.
+  - title: 11. Sessions, authentication, AJAX
+    permalink: /webdev2/lectures/10/
+    date: 2018.04.24.
 ---
 
 # General information
