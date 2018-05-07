@@ -56,7 +56,9 @@ Environment
 ## Components
 
 - [JavaScript test](http://webprogramozas.inf.elte.hu/webdev2/tests/js_test.html) (2018.03.27.)
-- PHP test (2018.05.22.)
+- PHP test (2018.05.22., 14:00, PC4)
+- JavaScript retake test (2018.05.29., 12:00, PC4)
+- PHP retake test (2018.05.29., 14:00, PC4)
 - [Complex home project](http://webprogramozas.inf.elte.hu/webdev2/tests/mastermind.html) ([submission](http://webprogramozas.inf.elte.hu/ebr), submission date: 2018.05.27.)
 
 
