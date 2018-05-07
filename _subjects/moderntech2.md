@@ -29,9 +29,9 @@ lectures:
   - title: 9. Adattárolás
     permalink: moderntech2/ea/09/
     date: 2018.04.24.
-  # - title: 10. Munkamenet-kezelés, hitelesítés
-  #   permalink: moderntech2/ea/10/
-  #   date: 2018.04.24.
+  - title: 10. Munkamenet-kezelés, hitelesítés
+    permalink: moderntech2/ea/10/
+    date: 2018.05.08.
 ---
 
 # Általános információk
