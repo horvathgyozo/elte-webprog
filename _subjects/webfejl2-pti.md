@@ -37,6 +37,9 @@ lectures:
   - title: 11. AJAX
     permalink: webfejl2/ea/11/
     date: 2018.05.02.
+  - title: 12. Kitekintés
+    permalink: webfejl2/ea/12/
+    date: 2018.05.09.
 ---
 
 # Általános információk
@@ -213,7 +216,7 @@ Határidő: 2018. május 27. éjfél
 
 * Évfolyam ZH
 
-    2018\. május 28. 9:00-12:00 és 2018. május 29. 9:00-12:00, Lovarda, Nyelvi- és Adatbázis labor
+    2018\. május 28. 9:00-12:00, Lovarda és Nyelvi labor
 
 * PótZH
 
