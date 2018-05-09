@@ -95,9 +95,59 @@ További elvárások:
 
 ### Értékelés
 
-10-14 pont: 5
-5-9 pont: 4
-1-4 pont: 3
+10-14 pont: 5  
+5-9 pont: 4  
+1-4 pont: 3  
+minimum elvárások megvannak: 2
+
+## Beadandó feladat: PHP
+
+Készíts egy alkalmazást, amelyben nyilván tarthatod az elolvasott és elolvasandó könyveidet! Az adatok tárolása tetszőleges formában (adatbázis, fájl) történhet.
+
+Az alkalmazásnak a következő funkciókat kell tudnia:
+
+1. **Főoldal** A főoldal megjelenít egy üdvözlő szöveget, és kiírja, hogy jelenleg hány felhasználónak összesen hány könyve van az alkalmazásban.
+
+2. **Hitelesítés** Minden további funkció csak hitelesítés után érhető el. A főoldalon legyen lehetőség bejelentkezni: ehhez email címet és jelszót kérjünk be. Ugyancsak a főoldalon legyen egy link, amin keresztül a regisztrációs oldalra mehetünk. Itt meg kell adni a teljes nevet (kötelező), az email címet (kötelező, email formátum) és a jelszót (kötelező, legalább 6 karakter hosszú). Sikeres regisztráció után újra a főoldalra kerülünk, ahol bejelentkezhetünk. Bejelentkezés után legyen lehetőség kijelentkezni!
+
+3. **Listázó oldal** Sikeres bejelentkezés után a listázó oldalra kerülünk, ahol táblázatos formában megjelennek a bejelentkezett felhasználóhoz tartozó könyvek: szerző, cím, kategória, elolvasva-e.
+
+4. **Új könyv** A listázó oldalról egy link vigyen át egy olyan oldalra, ahol új könyv adatait lehet felvenni. Egy könyvről a következőket kell megadni:
+
+    - szerző (kötelező)
+    - cím (kötelező)
+    - oldalszám (csak egész szám)
+    - kategória (legördülő)
+    - ISBN szám (10 vagy 13 hosszú számsor)
+    - elolvasva-e (jelölőmező).
+
+    Hibás kitöltés esetén a hibákat jelezni kell! Siker esetén irányítsuk át az oldalt a listázó oldalra!
+
+
+5. **Könyv törlése** A listázó oldalon minden könyv mellett jelenjen meg egy "Törlés" link is. Erre kattintva az adott könyvet töröljük az adatbázisból, és újra jelenjen meg a listázó oldal.
+
+6. **AJAX keresés** A képernyő újratöltése nélkül legyen lehetőség a listában szereplő könyvek *címei* között keresni. A lista automatikusan legyen szűrve, ahogyan gépelünk a keresőmezőbe.
+
+### Pontozás
+
+- Főoldal: megjelenik (kötelező)
+- Főoldal: számláló (1 pont)
+- Hitelesítés: Regisztráció (1 pont)
+- Hitelesítés: Bejelentkezés (kötelező)
+- Hitelesítés: Kijelentkezés (kötelező)
+- Listázó oldal: könyvlista (kötelező)
+- Új könyv oldal: hibaellenőrzés (1 pont)
+- Új könyv oldal: sikeres mentés (kötelező)
+- Könyv törlése: sikeres törlés (1 pont)
+- AJAX keresés (2 pont)
+- 1 hét késés (-2 pont)
+- 1 hétnél több késés (nincs elfogadva a beadandó, nincs jegy)
+
+### Értékelés
+
+5-6 pont: 5  
+3-4 pont: 4  
+1-2 pont: 3  
 minimum elvárások megvannak: 2
 
 ## Jegyszerzés feltételei
