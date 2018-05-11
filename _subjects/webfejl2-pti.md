@@ -204,7 +204,7 @@ Határidő: 2018. május 27. éjfél
 
 * Beadandó feladat: [JavaScript](#javascript-beadandók)
 
-    Határidő: 2018. április 15.
+    Határidő: 2018. április 22.
 
     [Beadás](http://webprogramozas.inf.elte.hu/ebr)
 
