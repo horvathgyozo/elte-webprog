@@ -32,6 +32,9 @@ lectures:
   - title: 10. Munkamenet-kezelés, hitelesítés
     permalink: moderntech2/ea/10/
     date: 2018.05.08.
+  - title: 11. AJAX
+    permalink: moderntech2/ea/11/
+    date: 2018.05.15.
 ---
 
 # Általános információk
