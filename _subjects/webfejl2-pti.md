@@ -214,7 +214,7 @@ Határidő: 2018. május 27. éjfél
 
     [Beadás](http://webprogramozas.inf.elte.hu/ebr)
 
-* Évfolyam ZH
+* [Évfolyam ZH](http://webprogramozas.inf.elte.hu/webfejl2/gyak/zh.html)
 
     2018\. május 28. 9:00-12:00, Lovarda és Nyelvi labor
 
