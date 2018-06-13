@@ -59,6 +59,7 @@ Environment
 - [PHP test](http://webprogramozas.inf.elte.hu/webdev2/tests/php_test.html) (2018.05.22., 14:00, PC4)
 - [JavaScript retake test](http://webprogramozas.inf.elte.hu/webdev2/tests/js_retake_test.html) (2018.05.29., 12:00, PC4)
 - [PHP retake test](http://webprogramozas.inf.elte.hu/webdev2/tests/php_retake_test.html) (2018.05.29., 14:00, PC4)
+- [JavaScript retake test, 2nd round](http://webprogramozas.inf.elte.hu/webdev2/tests/js_retake_test2.html) (2018.06.14., 10:00, PC5)
 - [Complex home project](http://webprogramozas.inf.elte.hu/webdev2/tests/mastermind.html) ([submission](http://webprogramozas.inf.elte.hu/ebr), submission date: 2018.05.27.)
 
 
